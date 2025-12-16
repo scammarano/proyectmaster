@@ -1,0 +1,15 @@
+[16-Dec-2025 21:05:28 UTC] PHP Warning:  require_once(/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/grupoecc/public_html/vimar2/reports/export_pdf.php on line 3
+[16-Dec-2025 21:05:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/grupoecc/public_html/vimar2/reports/export_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/grupoecc/public_html/vimar2/reports/export_pdf.php on line 3
+[16-Dec-2025 21:05:33 UTC] PHP Warning:  require_once(/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/grupoecc/public_html/vimar2/reports/export_excel.php on line 3
+[16-Dec-2025 21:05:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/grupoecc/public_html/vimar2/reports/export_excel.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/grupoecc/public_html/vimar2/reports/export_excel.php on line 3
+[16-Dec-2025 21:05:51 UTC] PHP Warning:  require_once(/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/grupoecc/public_html/vimar2/reports/export_pdf.php on line 3
+[16-Dec-2025 21:05:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/grupoecc/public_html/vimar2/reports/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/grupoecc/public_html/vimar2/reports/export_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/grupoecc/public_html/vimar2/reports/export_pdf.php on line 3

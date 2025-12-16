@@ -1,0 +1,1 @@
+<?php /* lógica de borrar proyecto con confirmación */ ?>

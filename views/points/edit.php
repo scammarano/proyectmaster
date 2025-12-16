@@ -1,0 +1,1 @@
+<?php include __DIR__.'/../layout/header.php';?><p>Edición de punto (vista a completar).</p><?php include __DIR__.'/../layout/footer.php';?>

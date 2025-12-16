@@ -1,0 +1,13 @@
+RBAC Integrated Package (Complete)
+- Added includes/rbac.php with can_perm/require_permission (RBAC + legacy fallback)
+- Added rbac_sql/01_alters_rbac_base.sql and rbac_sql/02_permissions_full_matrix.sql
+- Added views:
+  - views/roles/list.php
+  - views/roles/detail.php
+  - views/users/detail.php
+  - views/logs/list.php
+  - views/homologations/index.php
+- Updated:
+  - index.php (router rebuilt, fixed series_families break + stray break removed, added RBAC gates + new routes)
+  - views/layout/header.php (Admin menu now permission-aware, Roles link added)
+  - views/users/list.php (sanitized invalid line; added 'Nuevo' button if missing)

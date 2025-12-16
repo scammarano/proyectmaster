@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+.report { max-width: 800px; margin: auto; }
+h1 { border-bottom: 2px solid #333; padding-bottom: 5px; }
+.btn { display:inline-block; margin-right:10px; }

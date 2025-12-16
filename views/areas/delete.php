@@ -1,0 +1,1 @@
+<?php include __DIR__.'/../layout/header.php';?><p>Eliminar área (endpoint a implementar).</p><?php include __DIR__.'/../layout/footer.php';?>

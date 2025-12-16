@@ -1,0 +1,1 @@
+<?php /* lógica de duplicar, ya discutida, se puede completar aquí */ ?>

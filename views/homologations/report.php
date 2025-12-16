@@ -1,0 +1,1 @@
+<?php include __DIR__.'/../layout/header.php';?><p>Reporte de homologaciones (vista a completar).</p><?php include __DIR__.'/../layout/footer.php';?>
